@@ -1,0 +1,22 @@
+[
+  {"title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "genre": "Fiction", "summary": "A story about the American Dream and the Roaring Twenties."},
+  {"title": "To Kill a Mockingbird", "author": "Harper Lee", "genre": "Fiction", "summary": "Explores themes of racial injustice and moral growth in the American South."},
+  {"title": "Pride and Prejudice", "author": "Jane Austen", "genre": "Romance", "summary": "A classic romance novel featuring Elizabeth Bennet and Mr. Darcy."},
+  {"title": "1984", "author": "George Orwell", "genre": "Science Fiction", "summary": "A dystopian novel depicting a totalitarian regime and surveillance society."},
+  {"title": "Moby-Dick", "author": "Herman Melville", "genre": "Adventure", "summary": "Follows the journey of Captain Ahab and his obsessive quest for revenge against the white whale."},
+  {"title": "The Catcher in the Rye", "author": "J.D. Salinger", "genre": "Coming-of-age", "summary": "Narrates the experiences of Holden Caulfield, a disillusioned teenager."},
+  {"title": "Jane Eyre", "author": "Charlotte Brontë", "genre": "Gothic", "summary": "A bildungsroman following the life of Jane Eyre, an orphaned governess."},
+  {"title": "The Hobbit", "author": "J.R.R. Tolkien", "genre": "Fantasy", "summary": "A fantasy novel detailing the adventures of Bilbo Baggins and a group of dwarves."},
+  {"title": "Frankenstein", "author": "Mary Shelley", "genre": "Gothic", "summary": "A science fiction novel exploring themes of ambition, creation, and humanity."},
+  {"title": "Hamlet", "author": "William Shakespeare", "genre": "Tragedy", "summary": "A tragedy about the Prince of Denmark and his quest for revenge against his uncle."},
+  {"title": "The Odyssey", "author": "Homer", "genre": "Epic", "summary": "An epic poem detailing the adventures of Odysseus as he tries to return home after the Trojan War."},
+  {"title": "Dracula", "author": "Bram Stoker", "genre": "Gothic", "summary": "A horror novel featuring Count Dracula and the battle between him and a group of vampire hunters."},
+  {"title": "The Picture of Dorian Gray", "author": "Oscar Wilde", "genre": "Gothic", "summary": "A philosophical novel exploring themes of beauty, morality, and the corruption of the soul."},
+  {"title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "genre": "Fantasy", "summary": "An epic fantasy trilogy following the quest to destroy the One Ring and defeat the Dark Lord Sauron."},
+  {"title": "The Adventures of Huckleberry Finn", "author": "Mark Twain", "genre": "Adventure", "summary": "Follows the adventures of Huck Finn and his friend Jim, a runaway slave, as they travel down the Mississippi River."},
+  {"title": "Wuthering Heights", "author": "Emily Brontë", "genre": "Gothic", "summary": "A Gothic romance novel featuring the tragic love story of Heathcliff and Catherine Earnshaw."},
+  {"title": "The Scarlet Letter", "author": "Nathaniel Hawthorne", "genre": "Historical Fiction", "summary": "Set in 17th-century Puritan Massachusetts, the novel explores themes of sin, guilt, and redemption."},
+  {"title": "Alice's Adventures in Wonderland", "author": "Lewis Carroll", "genre": "Fantasy", "summary": "A surreal and fantastical tale following Alice's adventures in a magical world."},
+  {"title": "The Count of Monte Cristo", "author": "Alexandre Dumas", "genre": "Adventure", "summary": "A classic adventure novel depicting the revenge plot of Edmond Dantès, who escapes from prison to enact vengeance against those who wronged him."},
+  {"title": "The Grapes of Wrath", "author": "John Steinbeck", "genre": "Historical Fiction", "summary": "Set during the Great Depression, the novel follows the Joad family as they migrate from the Dust Bowl to California in search of a better life."}
+]
